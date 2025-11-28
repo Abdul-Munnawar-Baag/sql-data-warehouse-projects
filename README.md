@@ -33,7 +33,7 @@ This project involves:
 
 ---
 
-## 🛠️ Important Links & Tools:
+## 🛠️ Important Tools:
 
 Everything is for Free!
 - **[Datasets]:** Access to the project dataset (csv files).
